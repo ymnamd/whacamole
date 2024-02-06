@@ -5,7 +5,7 @@ const score = document.querySelector('#score')
 
 let result = 0
 let hitPosition
-let currentTime = 3
+let currentTime = 30
 timeRemaining.textContent = currentTime
 let timerId = null
 
